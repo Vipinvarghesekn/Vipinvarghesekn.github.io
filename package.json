@@ -1,0 +1,9 @@
+{
+  "name": "node-js-web-appllication-test",
+  "version": "0.0.0",
+  "description": "NodeJsWebAppllicationTest",
+  "main": "server.js",
+  "author": {
+    "name": "vipinv"
+  }
+}
